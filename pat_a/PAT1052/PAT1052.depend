@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583064095 source:e:\cpractise\pat_a\pat1052\main.cpp
+	<stdio.h>
+	<string.h>
+	<algorithm>
+

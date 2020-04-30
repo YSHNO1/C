@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582546591 source:e:\cpractise\practise_basis\bignum-\main.cpp
+	<stdio.h>
+	<string.h>
+

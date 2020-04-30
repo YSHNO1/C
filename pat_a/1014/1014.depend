@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583930403 source:e:\cpractise\pat_a\1014\main.cpp
+	<iostream>
+	<stdio.h>
+	<queue>
+	<vector>
+

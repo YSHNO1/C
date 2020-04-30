@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582371176 source:e:\cpractise\practise_basis\findx\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577780334 source:e:\cpractise\practise_basis\reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

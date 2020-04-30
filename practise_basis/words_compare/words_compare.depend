@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577779629 source:e:\cpractise\practise_basis\words_compare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

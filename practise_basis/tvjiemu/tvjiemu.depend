@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582267742 source:e:\cpractise\practise_basis\tvjiemu\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

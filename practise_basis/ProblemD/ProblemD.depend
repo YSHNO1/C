@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562242028 source:e:\cpractise\practise_basis\problemd\main.cpp
+	<cstdio>
+	<string.h>
+
